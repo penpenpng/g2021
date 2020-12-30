@@ -1,12 +1,12 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
+  <div></div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "App",
-  components: {},
+  name: "Tile",
+  props: {},
 });
 </script>
